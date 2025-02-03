@@ -1,16 +1,27 @@
-# enhanced_property_search
+# 🏡 Enhanced Property Search  
 
-A new Flutter project.
+**Enhanced Property Search** is a **work-in-progress** AI-powered real estate app built with **Flutter**. The goal is to provide an intuitive home search experience where users can find properties using AI and agent-client integration.  
 
-## Getting Started
+## 🚀 Planned Features  
 
-This project is a starting point for a Flutter application.
+🔹 **AI-Based Search** – Upload a photo or describe a home to find similar listings.  
+🔹 **Agent-Client System** – Clients must link to an agent for a personalized experience.  
+🔹 **Request a Showing** – Schedule property visits via an interactive calendar.  
+🔹 **Cross-Platform** – Android & iOS support.  
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Coming Soon
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🔧 Getting Started  
+
+### Prerequisites  
+- **Flutter SDK** installed ([Get it here](https://flutter.dev/docs/get-started/install))  
+- **Dart** installed  
+- **Android Studio or VS Code** with Flutter plugin  
+
+### Steps  
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/mandyroskelley/enhanced-property-search.git
+   cd enhanced-property-search
