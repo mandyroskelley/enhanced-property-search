@@ -11,7 +11,17 @@
 
 ## 📸 Screenshots  
 
-Coming Soon
+### Splash Screen  
+<img src="screenshots/splashscreen.PNG" alt="App Screenshot" width="300">
+
+### Choose Role Screen 
+<img src="screenshots/chooserole.PNG" alt="App Screenshot" width="300">
+
+### Agent Login Screen
+<img src="screenshots/agentlogin.PNG" alt="App Screenshot" width="300">
+
+### Client Login Screen
+<img src="screenshots/clientlogin.PNG" alt="App Screenshot" width="300">
 
 ## 🔧 Getting Started  
 
